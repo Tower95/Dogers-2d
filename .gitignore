@@ -1,0 +1,38 @@
+# Untraked files:
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+*.so.*
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+# test output & cache
+Testing/
+.cache/
